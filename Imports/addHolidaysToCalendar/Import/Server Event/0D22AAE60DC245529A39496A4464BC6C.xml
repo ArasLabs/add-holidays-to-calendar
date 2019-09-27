@@ -1,0 +1,14 @@
+﻿<AML>
+ <Item type="Server Event" id="0D22AAE60DC245529A39496A4464BC6C" action="add">
+  <event_version>version_1</event_version>
+  <is_required>0</is_required>
+  <related_id keyed_name="labs_getCalendar" type="Method">
+   <Item type="Method" action="get" select="id">
+    <name>labs_getCalendar</name>
+   </Item>
+  </related_id>
+  <server_event>onBeforeAdd</server_event>
+  <sort_order>384</sort_order>
+  <source_id keyed_name="Business Calendar Year" type="ItemType" name="Business Calendar Year">7641AC8B5D2044F3B8C9A0885A3FA1D1</source_id>
+ </Item>
+</AML>

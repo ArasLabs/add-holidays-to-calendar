@@ -1,0 +1,30 @@
+﻿<AML>
+ <Item type="View" id="C261425F97834FC58D469904ACB7B6BD" action="add">
+  <client>js</client>
+  <related_id keyed_name="Business Calendar Year add" type="Form">
+   <Item type="Form" id="883BF1C900E9441E84533F57DB8DDF52" action="add">
+    <category_form>0</category_form>
+    <height>150</height>
+    <stylesheet><![CDATA[../styles/default.css]]></stylesheet>
+    <width>784</width>
+    <name>Business Calendar Year add</name>
+    <Relationships>
+     <Item type="Body" id="9DE14B7EDF1647DC9176DD62BDBD9005" action="add">
+      <bg_color>#FFFFFF</bg_color>
+      <sort_order>128</sort_order>
+      <source_id keyed_name="Business Calendar Year add" type="Form">883BF1C900E9441E84533F57DB8DDF52</source_id>
+     </Item>
+    </Relationships>
+   </Item>
+  </related_id>
+  <role keyed_name="World" type="Identity">
+   <Item type="Identity" action="get" select="id">
+    <name>World</name>
+   </Item>
+  </role>
+  <show_ssvc>0</show_ssvc>
+  <sort_order>256</sort_order>
+  <source_id keyed_name="Business Calendar Year" type="ItemType" name="Business Calendar Year">7641AC8B5D2044F3B8C9A0885A3FA1D1</source_id>
+  <type>add</type>
+ </Item>
+</AML>

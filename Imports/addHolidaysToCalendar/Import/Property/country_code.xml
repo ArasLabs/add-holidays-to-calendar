@@ -1,0 +1,21 @@
+﻿<AML>
+ <Item type="Property" id="B2874AA10AA3416B82AEEDBB923B9C72" action="add">
+  <column_alignment>left</column_alignment>
+  <data_source keyed_name="Country Codes">B93D71AFF2704B4A96F885E4D004D18A</data_source>
+  <data_type>list</data_type>
+  <is_hidden>0</is_hidden>
+  <is_hidden2>0</is_hidden2>
+  <is_indexed>0</is_indexed>
+  <is_keyed>0</is_keyed>
+  <is_multi_valued>0</is_multi_valued>
+  <is_required>0</is_required>
+  <label xml:lang="en">country_code</label>
+  <range_inclusive>0</range_inclusive>
+  <readonly>0</readonly>
+  <sort_order>3072</sort_order>
+  <source_id keyed_name="Business Calendar Year" type="ItemType" name="Business Calendar Year">7641AC8B5D2044F3B8C9A0885A3FA1D1</source_id>
+  <stored_length>256</stored_length>
+  <track_history>0</track_history>
+  <name>country_code</name>
+ </Item>
+</AML>

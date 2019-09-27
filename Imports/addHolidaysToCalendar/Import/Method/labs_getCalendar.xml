@@ -1,0 +1,43 @@
+﻿<AML>
+ <Item type="Method" id="744EAF0D8B214D5AA273F9DCFE92CA30" action="add">
+  <execution_allowed_to keyed_name="Administrators" type="Identity">2618D6F5A90949BAA7E920D1B04C7EE1</execution_allowed_to>
+  <method_code><![CDATA[/*
+ * There is a publicly available API that can be used to get a list of holidays for a given country
+ * in a given year. The goal of this method is to help automate the process of creating a business calendar
+ * by creating the Business Calendar Exceptions for an admin.
+ *
+ * Documentation for this API can be found at https://date.nager.at/Api
+ */
+Innovator inn = this.getInnovator();
+// The URL we will be pinging to get the list of public holidays for our country
+string dateApiUrl = "https://date.nager.at/api/v2";
+
+// Validate that we have the data needed to request the holidays
+string year = this.getProperty("year", "");
+if (string.IsNullOrEmpty(year)) return inn.newError("Cannot run without 'year' property");
+string countryCode = this.getProperty("country_code", "");
+if (string.IsNullOrEmpty(year)) return inn.newError("Cannot run without 'country_code' property");
+
+// Make our request to the publicly available API
+string fullApiRequestUrl = String.Format("{0}/publicholidays/{1}/{2}", dateApiUrl, year, countryCode);
+using (WebClient wc = new WebClient())
+{
+    string responseString = wc.DownloadString(fullApiRequestUrl);
+    Newtonsoft.Json.Linq.JArray responseArray = Newtonsoft.Json.Linq.JArray.Parse(responseString);
+
+    
+    
+    // Loop through the list of holidays returned by the API and create an Exception to represent each one
+    foreach (var dateObject in responseArray)
+    {
+        var newCalendarException = this.createRelationship("Business Calendar Exception", "add");
+        newCalendarException.setProperty("day_date", inn.getI18NSessionContext().ConvertToNeutral((string)dateObject["date"], "string", ""));
+        newCalendarException.setProperty("description", (string)dateObject["name"]);
+        newCalendarException.setProperty("day_off", "1");
+    }
+    return this;
+}]]></method_code>
+  <method_type>C#</method_type>
+  <name>labs_getCalendar</name>
+ </Item>
+</AML>

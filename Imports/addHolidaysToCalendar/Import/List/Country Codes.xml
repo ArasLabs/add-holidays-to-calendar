@@ -1,0 +1,614 @@
+﻿<AML>
+ <Item type="List" id="B93D71AFF2704B4A96F885E4D004D18A" action="add">
+  <description>Countries and the corresponding country codes</description>
+  <name>Country Codes</name>
+  <Relationships>
+   <Item type="Value" id="301D3540F9A548BA9CC177FD6A96F027" action="add">
+    <label xml:lang="en">Andorra</label>
+    <sort_order>1</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>AD</value>
+   </Item>
+   <Item type="Value" id="7D7454C307F74CB3B4C447CC69D5D0ED" action="add">
+    <label xml:lang="en">Albania</label>
+    <sort_order>10</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>AL</value>
+   </Item>
+   <Item type="Value" id="5B64C07345AB46B0AA35952C69D1A041" action="add">
+    <label xml:lang="en">Argentina</label>
+    <sort_order>20</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>AR</value>
+   </Item>
+   <Item type="Value" id="9F8261CDC19E4CA9A57393899F108B42" action="add">
+    <label xml:lang="en">Austria</label>
+    <sort_order>148</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>AT</value>
+   </Item>
+   <Item type="Value" id="157F922AE13343AD88944064441668B1" action="add">
+    <label xml:lang="en">Australia</label>
+    <sort_order>276</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>AU</value>
+   </Item>
+   <Item type="Value" id="B6F48897523A43EA8BA964F2054BA07F" action="add">
+    <label xml:lang="en">Aland Islands</label>
+    <sort_order>404</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>AX</value>
+   </Item>
+   <Item type="Value" id="4D310F1A83B8432EAE924483BF037844" action="add">
+    <label xml:lang="en">Barbados</label>
+    <sort_order>532</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>BB</value>
+   </Item>
+   <Item type="Value" id="DB463DAF4CEA45DE87543EA13ED50687" action="add">
+    <label xml:lang="en">Belgium</label>
+    <sort_order>660</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>BE</value>
+   </Item>
+   <Item type="Value" id="911B96D6E1B3473F96D01136340A6E0D" action="add">
+    <label xml:lang="en">Bulgaria</label>
+    <sort_order>788</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>BG</value>
+   </Item>
+   <Item type="Value" id="5075C9F42F75421BACEA3A3D497084CE" action="add">
+    <label xml:lang="en">Benin</label>
+    <sort_order>916</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>BJ</value>
+   </Item>
+   <Item type="Value" id="C185E1D660FE4EA7BB20C91BB7520C41" action="add">
+    <label xml:lang="en">Bolivia</label>
+    <sort_order>1044</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>BO</value>
+   </Item>
+   <Item type="Value" id="43A1EE86AF79468E8A3434355F9203EC" action="add">
+    <label xml:lang="en">Brazil</label>
+    <sort_order>1172</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>BR</value>
+   </Item>
+   <Item type="Value" id="8877DBB772A74C3891389407C374DE57" action="add">
+    <label xml:lang="en">Bahamas</label>
+    <sort_order>1300</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>BS</value>
+   </Item>
+   <Item type="Value" id="FA171C1EDADC497A9E9B8C6E1AD75C26" action="add">
+    <label xml:lang="en">Botswana</label>
+    <sort_order>1428</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>BW</value>
+   </Item>
+   <Item type="Value" id="EC17961721A34F789E5420ECF228E3FF" action="add">
+    <label xml:lang="en">Belarus</label>
+    <sort_order>1556</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>BY</value>
+   </Item>
+   <Item type="Value" id="8EC7F3BAC75A47B48EEA37258F91FECF" action="add">
+    <label xml:lang="en">Belize</label>
+    <sort_order>1684</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>BZ</value>
+   </Item>
+   <Item type="Value" id="014C564E1F5845F692F84226BFD92415" action="add">
+    <label xml:lang="en">Canada</label>
+    <sort_order>1812</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>CA</value>
+   </Item>
+   <Item type="Value" id="EA0E032D3E11429CA807C192E2183CE4" action="add">
+    <label xml:lang="en">Switzerland	</label>
+    <sort_order>1940</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>CH</value>
+   </Item>
+   <Item type="Value" id="9751222DE96F47B5B279532149C8DE8C" action="add">
+    <label xml:lang="en">Chile	</label>
+    <sort_order>2068</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>CL</value>
+   </Item>
+   <Item type="Value" id="1B0C05020DD342F79F8076158E586BD8" action="add">
+    <label xml:lang="en">China</label>
+    <sort_order>2196</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>CN</value>
+   </Item>
+   <Item type="Value" id="268C410797B548319DF53C924181C4E3" action="add">
+    <label xml:lang="en">Colombia</label>
+    <sort_order>2324</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>CO</value>
+   </Item>
+   <Item type="Value" id="C3C65C58F4434A36A1AB21B2D92481CF" action="add">
+    <label xml:lang="en">Cuba</label>
+    <sort_order>2452</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>CU</value>
+   </Item>
+   <Item type="Value" id="F43C52B87ADC4B74937D164CC35EF73A" action="add">
+    <label xml:lang="en">Costa Rica</label>
+    <sort_order>2580</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>CR</value>
+   </Item>
+   <Item type="Value" id="02C29819717442A5A0F6B7BCA8B6F061" action="add">
+    <label xml:lang="en">Cyprus</label>
+    <sort_order>2708</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>CY</value>
+   </Item>
+   <Item type="Value" id="99C4AA5AABFB41B8A55BBB511B2E3DB7" action="add">
+    <label xml:lang="en">Czechia</label>
+    <sort_order>2836</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>CZ</value>
+   </Item>
+   <Item type="Value" id="FA01EC703CE249D390A402577B6B1C32" action="add">
+    <label xml:lang="en">Germany</label>
+    <sort_order>2964</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>DE</value>
+   </Item>
+   <Item type="Value" id="FB36E7600FE947A0B18751BA5A59B2AF" action="add">
+    <label xml:lang="en">Denmark</label>
+    <sort_order>3092</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>DK</value>
+   </Item>
+   <Item type="Value" id="57D6F2FE232C440FB136A8E551AE05EB" action="add">
+    <label xml:lang="en">Dominican Republic</label>
+    <sort_order>3220</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>DO</value>
+   </Item>
+   <Item type="Value" id="84A8EBA390DE4269A249AB707613A3C2" action="add">
+    <label xml:lang="en">Ecuador</label>
+    <sort_order>3348</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>EC</value>
+   </Item>
+   <Item type="Value" id="3D7AB55B1D6B460C8792B7A7F36E1B2B" action="add">
+    <label xml:lang="en">Estonia</label>
+    <sort_order>3476</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>EE</value>
+   </Item>
+   <Item type="Value" id="89C2BA29981E476A9BBDF9D2C08C2C2A" action="add">
+    <label xml:lang="en">Egypt</label>
+    <sort_order>3604</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>EG</value>
+   </Item>
+   <Item type="Value" id="1B7A7E561DC744708A048ACFB3C7F2EB" action="add">
+    <label xml:lang="en">Spain</label>
+    <sort_order>3732</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>ES</value>
+   </Item>
+   <Item type="Value" id="2E5DDCC7B22A4F7DA6D6D3DB8EC8D657" action="add">
+    <label xml:lang="en">Finland</label>
+    <sort_order>3860</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>FI</value>
+   </Item>
+   <Item type="Value" id="6BD2C17D1EC24F64937F37CB6EB33758" action="add">
+    <label xml:lang="en">Faroe Islands</label>
+    <sort_order>3988</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>FO</value>
+   </Item>
+   <Item type="Value" id="41881823087D411FB1DFB24894CFAF3D" action="add">
+    <label xml:lang="en">France</label>
+    <sort_order>4116</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>FR</value>
+   </Item>
+   <Item type="Value" id="D33A969ACBAE4CC381750A644D5FFB3B" action="add">
+    <label xml:lang="en">Gabon</label>
+    <sort_order>4244</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>GA</value>
+   </Item>
+   <Item type="Value" id="2CBBBEEF909844BBB22274808F76E9CC" action="add">
+    <label xml:lang="en">United Kingdom</label>
+    <sort_order>4372</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>GB</value>
+   </Item>
+   <Item type="Value" id="14A6D5B33768409BA2F5A5CAB134E9EC" action="add">
+    <label xml:lang="en">Grenada</label>
+    <sort_order>4500</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>GD</value>
+   </Item>
+   <Item type="Value" id="1E1DA5C3952C4E03B7DD54175B6948D5" action="add">
+    <label xml:lang="en">Greenland</label>
+    <sort_order>4628</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>GL</value>
+   </Item>
+   <Item type="Value" id="D8D6EBDB6B3E4FAB9C627404F7F7427D" action="add">
+    <label xml:lang="en">Gambia</label>
+    <sort_order>4756</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>GM</value>
+   </Item>
+   <Item type="Value" id="120D053DDDF74E7FB541A8376BBE2E05" action="add">
+    <label xml:lang="en">Greece</label>
+    <sort_order>4884</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>GR</value>
+   </Item>
+   <Item type="Value" id="88613A3EC60C42FC9685A58602326B9A" action="add">
+    <label xml:lang="en">Guatemala</label>
+    <sort_order>5012</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>GT</value>
+   </Item>
+   <Item type="Value" id="3685EC974501448DA0026A4E8F4E7819" action="add">
+    <label xml:lang="en">Guyana</label>
+    <sort_order>5140</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>GY</value>
+   </Item>
+   <Item type="Value" id="62E5031E87DE402CA09FD7364869B879" action="add">
+    <label xml:lang="en">Honduras</label>
+    <sort_order>5268</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>HN</value>
+   </Item>
+   <Item type="Value" id="DDC6B84FDBDB49CCB1D30088101E6240" action="add">
+    <label xml:lang="en">Croatia</label>
+    <sort_order>5396</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>HR</value>
+   </Item>
+   <Item type="Value" id="916DD919711F465DA8531B28617694E6" action="add">
+    <label xml:lang="en">Haiti</label>
+    <sort_order>5524</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>HT</value>
+   </Item>
+   <Item type="Value" id="F482D77254934451ABE07ECD6FDC8ABF" action="add">
+    <label xml:lang="en">Hungary</label>
+    <sort_order>5652</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>HU</value>
+   </Item>
+   <Item type="Value" id="429BFFB826F94D059185208F4EE35852" action="add">
+    <label xml:lang="en">Indonesia</label>
+    <sort_order>5780</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>ID</value>
+   </Item>
+   <Item type="Value" id="297DECAD2CD1492C87C60F82F2C7E5E0" action="add">
+    <label xml:lang="en">Ireland</label>
+    <sort_order>5908</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>IE</value>
+   </Item>
+   <Item type="Value" id="70A6B503614B4635AC862AD5429DC0DF" action="add">
+    <label xml:lang="en">Isle of Man</label>
+    <sort_order>6036</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>IM</value>
+   </Item>
+   <Item type="Value" id="27AE0FD640B04C35B0EFC9AF34F0A6A3" action="add">
+    <label xml:lang="en">Iceland</label>
+    <sort_order>6164</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>IS</value>
+   </Item>
+   <Item type="Value" id="EF957D18040B49BCBE0D0D173963F7A4" action="add">
+    <label xml:lang="en">Italy</label>
+    <sort_order>6292</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>IT</value>
+   </Item>
+   <Item type="Value" id="15C3F2AB34C54383B3FE99A31EB7BF56" action="add">
+    <label xml:lang="en">Jersey</label>
+    <sort_order>6420</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>JE</value>
+   </Item>
+   <Item type="Value" id="F4AD9255EB48435992DFBF3DDF90B981" action="add">
+    <label xml:lang="en">Jamaica</label>
+    <sort_order>6548</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>JM</value>
+   </Item>
+   <Item type="Value" id="569200DD494C4CFE91F3AF4C9A7C8067" action="add">
+    <label xml:lang="en">Japan</label>
+    <sort_order>6676</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>JP</value>
+   </Item>
+   <Item type="Value" id="0748479BE06B46CC90FA222F88D94F7F" action="add">
+    <label xml:lang="en">Liechtenstein</label>
+    <sort_order>6804</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>LI</value>
+   </Item>
+   <Item type="Value" id="06CE12F83DF3499D8189BDBB5CB9C940" action="add">
+    <label xml:lang="en">Lesotho</label>
+    <sort_order>6932</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>LS</value>
+   </Item>
+   <Item type="Value" id="4846F5A59CDB472C835DE6D0E6062E69" action="add">
+    <label xml:lang="en">Lithuania</label>
+    <sort_order>7060</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>LT</value>
+   </Item>
+   <Item type="Value" id="011B2760CE1A4855A11A1B925FF939A4" action="add">
+    <label xml:lang="en">Luxembourg</label>
+    <sort_order>7188</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>LU</value>
+   </Item>
+   <Item type="Value" id="4636B3DF40114DECB749059F54A62190" action="add">
+    <label xml:lang="en">Latvia</label>
+    <sort_order>7316</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>LV</value>
+   </Item>
+   <Item type="Value" id="F2E570DCDFED450A9C3014361CA050EB" action="add">
+    <label xml:lang="en">Morocco</label>
+    <sort_order>7444</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>MA</value>
+   </Item>
+   <Item type="Value" id="3F5E3144E8114B98B2D08BC1F74EB7D4" action="add">
+    <label xml:lang="en">Monaco</label>
+    <sort_order>7572</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>MC</value>
+   </Item>
+   <Item type="Value" id="5D9F4C6EC5C0429EB5D95500BD3FD4A2" action="add">
+    <label xml:lang="en">Moldova</label>
+    <sort_order>7700</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>MD</value>
+   </Item>
+   <Item type="Value" id="A11DAB4047384EBAB392C137A35D99D1" action="add">
+    <label xml:lang="en">Madagascar</label>
+    <sort_order>7828</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>MG</value>
+   </Item>
+   <Item type="Value" id="0A99D6F6933D4C85811526D6BD4CD043" action="add">
+    <label xml:lang="en">Macedonia</label>
+    <sort_order>7956</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>MK</value>
+   </Item>
+   <Item type="Value" id="17AB1B629DD744738CA760C17CE0ABCD" action="add">
+    <label xml:lang="en">Mongolia</label>
+    <sort_order>8084</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>MN</value>
+   </Item>
+   <Item type="Value" id="07C14952B8E445EAA9278992E05859D9" action="add">
+    <label xml:lang="en">Malta</label>
+    <sort_order>8212</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>MT</value>
+   </Item>
+   <Item type="Value" id="45AACB92655C48E983D60762A494E1F2" action="add">
+    <label xml:lang="en">Mexico</label>
+    <sort_order>8340</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>MX</value>
+   </Item>
+   <Item type="Value" id="F93DE08E34A74894A8C52D30B0585E36" action="add">
+    <label xml:lang="en">Mozambique</label>
+    <sort_order>8468</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>MZ</value>
+   </Item>
+   <Item type="Value" id="7EF9949F9FC04C8BB3276C2588F8BBE5" action="add">
+    <label xml:lang="en">Nambia</label>
+    <sort_order>8596</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>NA</value>
+   </Item>
+   <Item type="Value" id="727D51A187BA46C789537FF9D95FE772" action="add">
+    <label xml:lang="en">Niger</label>
+    <sort_order>8724</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>NE</value>
+   </Item>
+   <Item type="Value" id="D64A6E8DF2A44C05A926983FCA98E34C" action="add">
+    <label xml:lang="en">Nicaragua</label>
+    <sort_order>8852</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>NI</value>
+   </Item>
+   <Item type="Value" id="DF948061D65449919DFCF2861858BAD6" action="add">
+    <label xml:lang="en">Netherlands</label>
+    <sort_order>8980</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>NL</value>
+   </Item>
+   <Item type="Value" id="10CADA2769034E0E99B1ADB99246A6DC" action="add">
+    <label xml:lang="en">Norway</label>
+    <sort_order>9108</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>NO</value>
+   </Item>
+   <Item type="Value" id="DBBF1D6B13F24E5C9DB98044A1CDE9FA" action="add">
+    <label xml:lang="en">New Zealand</label>
+    <sort_order>9236</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>NZ</value>
+   </Item>
+   <Item type="Value" id="8A1289A1374647C6BA76CA52D1507BD4" action="add">
+    <label xml:lang="en">Panama</label>
+    <sort_order>9364</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>PA</value>
+   </Item>
+   <Item type="Value" id="5B634243416C4F21A62449CC69B3F5E6" action="add">
+    <label xml:lang="en">Peru</label>
+    <sort_order>9492</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>PE</value>
+   </Item>
+   <Item type="Value" id="910B1D193D154A9BA8E00468D9FA2BB4" action="add">
+    <label xml:lang="en">Poland</label>
+    <sort_order>9620</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>PL</value>
+   </Item>
+   <Item type="Value" id="7D49657AA5374FB79C71B556EE750ECD" action="add">
+    <label xml:lang="en">Puerto Rico</label>
+    <sort_order>9748</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>PR</value>
+   </Item>
+   <Item type="Value" id="F30E6058C4EC427FA6E439A3AF37DB4F" action="add">
+    <label xml:lang="en">Portugal</label>
+    <sort_order>9876</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>PT</value>
+   </Item>
+   <Item type="Value" id="09FE9C4AE28D41F2B2BAEB72D3197644" action="add">
+    <label xml:lang="en">Paraguay</label>
+    <sort_order>10004</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>PY</value>
+   </Item>
+   <Item type="Value" id="1F562A321AC94E7FB66D370DD383CFDB" action="add">
+    <label xml:lang="en">Romania</label>
+    <sort_order>10132</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>RO</value>
+   </Item>
+   <Item type="Value" id="471C50E42D91405E9710BE1B80E207B2" action="add">
+    <label xml:lang="en">Serbia</label>
+    <sort_order>10260</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>RS</value>
+   </Item>
+   <Item type="Value" id="E29FA99249C44982A00E06099FF7457D" action="add">
+    <label xml:lang="en">Russia</label>
+    <sort_order>10388</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>RU</value>
+   </Item>
+   <Item type="Value" id="8713131446D7429CBD5EBA4E74FD3AF5" action="add">
+    <label xml:lang="en">Sweden</label>
+    <sort_order>10516</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>SE</value>
+   </Item>
+   <Item type="Value" id="4C67D1E5C994421FABE94FB74F124B0B" action="add">
+    <label xml:lang="en">Slovenia</label>
+    <sort_order>10644</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>SI</value>
+   </Item>
+   <Item type="Value" id="F64A0766D1704C83AAD7F4AA54AC4C0A" action="add">
+    <label xml:lang="en">Svalbard and Jan Mayen</label>
+    <sort_order>10772</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>SJ</value>
+   </Item>
+   <Item type="Value" id="C68D06D190EC46E48C15CDE61CC87F4B" action="add">
+    <label xml:lang="en">Slovakia</label>
+    <sort_order>10900</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>SK</value>
+   </Item>
+   <Item type="Value" id="A1605AE7990A4C9F885B23F4923C8A94" action="add">
+    <label xml:lang="en">San Marino</label>
+    <sort_order>11028</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>MS</value>
+   </Item>
+   <Item type="Value" id="87A22D301210454EAA496230C1CA666D" action="add">
+    <label xml:lang="en">Suriname</label>
+    <sort_order>11156</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>SR</value>
+   </Item>
+   <Item type="Value" id="49B87BD4F6764E52B29AAF607E3007DE" action="add">
+    <label xml:lang="en">El Salvador</label>
+    <sort_order>11284</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>SV</value>
+   </Item>
+   <Item type="Value" id="3BF9BC8BCFA94C55BA1EAAD7916C4436" action="add">
+    <label xml:lang="en">Tunisia</label>
+    <sort_order>11412</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>TN</value>
+   </Item>
+   <Item type="Value" id="3225B6E4591042D5BE05EF45F006822F" action="add">
+    <label xml:lang="en">Turkey</label>
+    <sort_order>11540</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>TR</value>
+   </Item>
+   <Item type="Value" id="9E0E7B851F2143218277F0BB0E1666EE" action="add">
+    <label xml:lang="en">Ukraine</label>
+    <sort_order>11668</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>UA</value>
+   </Item>
+   <Item type="Value" id="CFFE8D14E0D94C229CAA08625B4CFD53" action="add">
+    <label xml:lang="en">United States</label>
+    <sort_order>11796</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>US</value>
+   </Item>
+   <Item type="Value" id="93E454AEA4B942509F27403F6C6CFBAF" action="add">
+    <label xml:lang="en">Uruguay</label>
+    <sort_order>11924</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>UY</value>
+   </Item>
+   <Item type="Value" id="9B664110340A45328544DC7EE12F9601" action="add">
+    <label xml:lang="en">Vatican City</label>
+    <sort_order>12052</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>VA</value>
+   </Item>
+   <Item type="Value" id="D505BF87D00341008F1E006F89F7B6B3" action="add">
+    <label xml:lang="en">Venezuela</label>
+    <sort_order>12180</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>VE</value>
+   </Item>
+   <Item type="Value" id="76AE3E34D3C140A2B3A449220C67F51C" action="add">
+    <label xml:lang="en">Vietnam</label>
+    <sort_order>12308</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>VN</value>
+   </Item>
+   <Item type="Value" id="60D1714F91694F3DB61497B8E7360569" action="add">
+    <label xml:lang="en">South Africa</label>
+    <sort_order>12436</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>ZA</value>
+   </Item>
+   <Item type="Value" id="C44652E7DE1F41169A1A99E64319DED6" action="add">
+    <label xml:lang="en">Zimbabwe</label>
+    <sort_order>12564</sort_order>
+    <source_id keyed_name="Country Codes" type="List">B93D71AFF2704B4A96F885E4D004D18A</source_id>
+    <value>ZW</value>
+   </Item>
+  </Relationships>
+ </Item>
+</AML>
