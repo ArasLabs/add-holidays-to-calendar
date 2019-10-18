@@ -24,6 +24,7 @@ Project | Aras
 ### Pre-requisites
 
 1. Aras Innovator installed
+2. Program Management application installed
 
 ### Install Steps
 
